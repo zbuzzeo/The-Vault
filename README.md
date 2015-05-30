@@ -1,5 +1,7 @@
 # The Vault
 
+_fork and clone your own fork of this repo, then push to your own github account._
+
 Sets 'secret' values defined by a 'key' word.
 
 ### Goal
