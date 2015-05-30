@@ -6,7 +6,8 @@ Sets 'secret' values defined by a 'key' word.
 
 ### Goal
 
-Create a module that exposes 2 functions.
+Create a module that exposes 2 functions.  
+work on the `vault.js` file.  
 make tests pass
 
 ##### setValue
