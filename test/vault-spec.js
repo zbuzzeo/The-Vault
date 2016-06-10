@@ -18,7 +18,7 @@ describe('Vault', function() {
   it('should return null if an invalid key is used', function() {
     var invalidKey = 'sntdaoifiadnitdoaenyineoaiseou';
     var val = vaulted.getValue( invalidKey );
-    expect(vaulted.getValue()).to.be.null;
+    expect(val).to.be.null;
   });
 
 
