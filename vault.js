@@ -6,7 +6,6 @@ module.exports = function( ) {
         vault[ key ] = value;
     }
     const getValue = ( key ) => {
-        // if vault[ key ] is some kind of truthey value then:
         if ( vault[ key ] ) {
             return vault[ key ];
         }
